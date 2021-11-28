@@ -1,7 +1,7 @@
 # Air quality prediction
 ML project
 
-How next day’s air quality index (AQI) that can be predicted from pollutant substances and metrological factors?
+How next day’s air quality index (AQI) that can be predicted from pollutant substances and metrological factors? /n
  
 Data collection:
 
